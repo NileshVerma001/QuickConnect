@@ -41,5 +41,3 @@ Special thanks to Socket.io for providing real-time communication functionality 
 For any inquiries or support, please contact [nv1082003@gmail.com].
 
 --- 
-
-Feel free to customize the README according to your project's specific details and requirements.
