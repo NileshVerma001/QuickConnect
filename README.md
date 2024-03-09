@@ -23,8 +23,6 @@ To run the application, follow these steps:
 ## Demo
 Watch the demo of QuickConnect on YouTube: [QuickConnect Demo](https://www.youtube.com/)
 
-Replace `VIDEO_ID` with the actual ID of your YouTube video.
-
 ## Technologies Used
 - MongoDB
 - Express.js
